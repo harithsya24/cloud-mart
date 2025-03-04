@@ -1,4 +1,4 @@
-# Cloud Architecture Project
+# Cloud Mart: AI based Multi Cloud E-commerce Platform
 
 ## Overview
 This project implements a scalable, multi-cloud architecture centered on AWS infrastructure with integrations to Google Cloud and Microsoft Azure for specialized analytics and AI services. The architecture uses Kubernetes for containerized applications with a microservices approach.
