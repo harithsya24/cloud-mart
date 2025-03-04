@@ -74,7 +74,7 @@ kubectl apply -f kubernetes/
 
 ## Video Demo
 
-[![Project Demo Video]]
+[Project Demo Video]
 [Download the demo video](./Demo_video.mp4)
 
 ## Security Considerations
