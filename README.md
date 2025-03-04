@@ -74,8 +74,7 @@ kubectl apply -f kubernetes/
 
 ## Video Demo
 
-[Project Demo Video]
-[Download the demo video](./Demo_video.mp4)
+Project Demo Video :[Download the demo video](./Demo_video.mp4)
 
 ## Security Considerations
 - All data in transit is encrypted
